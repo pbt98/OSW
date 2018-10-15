@@ -13,5 +13,5 @@
 
 ## zdfasdg
 
-* [asdgetq](zdfasdg/asdgetq.md)
+* [asdgetq](zdfasdg/오픈소스의 역사 before and after 1980.md)
 
