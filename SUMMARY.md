@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [책 소개](README.md)
 
 ## open
 
