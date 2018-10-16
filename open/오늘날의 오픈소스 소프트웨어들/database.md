@@ -7,8 +7,11 @@
 ![](/assets/postgre.png)
 
 1. PostgreSQL : 객체관계형 데이터베이스 관리시스템이다. PostrgreSQL 라이센스를 갖고 있다.[http://www.postgresql.org](http://www.postgresql.org)
-2. HSQLDB : 자바언어로 코딩한 SQL 관계형 데이터베이스 엔진이다. GUI인터페이스도 지원한다.[http://hsqldb.org](http://hsqldb.org)
-3. SQLite : SQL을 구현하는 라이브러리 [http://www.sqlite.org](http://www.sqlite.org)
+
+![](/assets/hysql.png)
+
+1. HSQLDB : 자바언어로 코딩한 SQL 관계형 데이터베이스 엔진이다. GUI인터페이스도 지원한다.[http://hsqldb.org](http://hsqldb.org)
+2. SQLite : SQL을 구현하는 라이브러리 [http://www.sqlite.org](http://www.sqlite.org)
 
 
 
