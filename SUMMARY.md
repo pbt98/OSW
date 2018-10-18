@@ -3,7 +3,7 @@
 ## Introduction
 
 * [책 소개](README.md)
-* [moc](SUMMARY.md)
+* [목차](SUMMARY.md)
 
 ## 오픈소스 소개
 
