@@ -10,7 +10,7 @@
 8. Perl : 기능 중심의 포르그래밍언어 [http://www.Perl.org](http://www.Perl.org)
 9. Lua : 경량화된 스크립트 언어 [http://www.lua.org](http://www.lua.org)
 10. Scumm VM : 어드벤처 게임을 위한 플랫폼 인터프리터 [http://www.ScummVM.org](http://www.ScummVM.org)
-    11.Tcl/TK : Tool Command Language의 약자로 GUI를 만드는데 탁월한 언어이다. [http://www.tcl.tk](http://www.tcl.tk)
+11. 11.Tcl/TK : Tool Command Language의 약자로 GUI를 만드는데 탁월한 언어이다. [http://www.tcl.tk](http://www.tcl.tk)
 
 ### 에디터
 
