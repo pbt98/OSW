@@ -38,5 +38,3 @@
 3.Qt : GUI 소프트웨어 개발을 위한 프레임워크 [http://qt.nokia.com](http://qt.nokia.com)  
 4.Ruby on Rails : 애자일 방식으로 사용될 목적으로 만들어진 프레임 워크 [http://www.rubyonrails.org](http://www.rubyonrails.org)
 
-
-
