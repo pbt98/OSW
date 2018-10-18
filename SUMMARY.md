@@ -35,6 +35,5 @@
 ## 오픈소스의 역사
 
 * [~1980년대](zdfasdg/오픈소스의 역사 before and after 1980.md)
-
-
+* gqwerq
 
