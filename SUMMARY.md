@@ -35,7 +35,7 @@
 ## 오픈소스의 역사
 
 * [~1980년대](zdfasdg/오픈소스의 역사 before and after 1980.md)
-* [gqwerq](zdfasdg/1990-1995.md)
-* [asdfklqkl](zdfasdg/1990년대,2000년대.md)
-* [jgkoqkle](zdfasdg/2000년대 중반.md)
+* [1990년 ~ 1995년](zdfasdg/1990-1995.md)
+* [1990년대 후반 ~ 2000년대 초반](zdfasdg/1990년대,2000년대.md)
+* [2000년대 중반~](zdfasdg/2000년대 중반.md)
 
