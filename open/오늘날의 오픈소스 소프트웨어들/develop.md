@@ -5,7 +5,7 @@
 3. PHP : HTML과 호환이 잘되는 스크립트 언어 [http://www.php.net](http://www.php.net)
 4. Ruby : 일본인이 만든 자연스러운 문법을 가진 언어 [http://www.ruby-lang.org/en/](http://www.ruby-lang.org/en/)
 5. Java Techonology : 썬 시스템에서 개발한 프로그래밍언어 [http://www.oracle.com/technetwork/java](http://www.oracle.com/technetwork/java)
-6. Scala : 우아하고 안정적인 방법으로 일반적인 패턴을 표현하기 위해 설께된 언어 [http://www.scala-lang.org](http://www.scala-lang.org)
+6. Scala : 우아하고 안정적인 방법으로 일반적인 패턴을 표현하기 위해 설계된 언어 [http://www.scala-lang.org](http://www.scala-lang.org)
 7. Erlang : 에릭슨에 의해 고안된 프로그래밍언어 [http://www.erlang.org](http://www.erlang.org)
 8. Perl : 기능 중심의 포르그래밍언어 [http://www.Perl.org](http://www.Perl.org)
 9. Lua : 경량화된 스크립트 언어 [http://www.lua.org](http://www.lua.org)
