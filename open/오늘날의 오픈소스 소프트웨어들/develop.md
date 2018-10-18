@@ -69,18 +69,42 @@
 ![](/assets/깃.jpg)
 
 * Git : 가장 많이 쓰이는 VCS로 속도가 아주 빠른 것이 특징이다. [http://git-scm.com](http://git-scm.com)
+
+![](/assets/머큐리얼.png)
+
 * Mercurial : 분산 버전 관리도구로 직관적인 인터페이스가 특징 [http://mercurial.selenic.com](http://mercurial.selenic.com)
 
 ### IDE
 
-1. eclipse : java 통합개발환경으로 IBM에서 만들어졌다가 오픈소스로 릴리스되었다. [http://www.Eclipse.org](http://www.Eclipse.org)
-2. NetBeans : 개발자를 위한 플랫폼을 지원한다. [http://netbeans.org](http://netbeans.org)
-3. Apache Ant : 빌드 프로세스를 자동화 하기 위한 도구 [http://ant.apache.org](http://ant.apache.org)
+![](/assets/이클립스.png)
+
+* eclipse : java 통합개발환경으로 IBM에서 만들어졌다가 오픈소스로 릴리스되었다. [http://www.Eclipse.org](http://www.Eclipse.org)
+
+![](/assets/넷빈즈.png)
+
+* NetBeans : 개발자를 위한 플랫폼을 지원한다. [http://netbeans.org](http://netbeans.org)
+
+![](/assets/엔트.png)
+
+* Apache Ant : 빌드 프로세스를 자동화 하기 위한 도구 [http://ant.apache.org](http://ant.apache.org)
 
 ### frame work
 
-1.Simply Ajax and Mobile : java로 작성된 웹 애플리케이션 프레임워크, 질 좋은 GUI를 쉽게 만들 수 있다. [http://www.zkoss.org](http://www.zkoss.org)  
-2.Mono : 클로스 플랫폼 어플의 쉬운 작성을 위해 만든 플랫폼 [http://www.mono-project.com/Main\_Page](http://www.mono-project.com/Main_Page)  
-3.Qt : GUI 소프트웨어 개발을 위한 프레임워크 [http://qt.nokia.com](http://qt.nokia.com)  
-4.Ruby on Rails : 애자일 방식으로 사용될 목적으로 만들어진 프레임 워크 [http://www.rubyonrails.org](http://www.rubyonrails.org)
+![](/assets/에이젝스.jpg)
+
+* Simply Ajax and Mobile : java로 작성된 웹 애플리케이션 프레임워크, 질 좋은 GUI를 쉽게 만들 수 있다. [http://www.zkoss.org](http://www.zkoss.org)
+
+![](/assets/모노.png)
+
+* Mono : 클로스 플랫폼 어플의 쉬운 작성을 위해 만든 플랫폼 [http://www.mono-project.com/Main\_Page](http://www.mono-project.com/Main_Page)
+
+![](/assets/큐티.png)
+
+* Qt : GUI 소프트웨어 개발을 위한 프레임워크 [http://qt.nokia.com](http://qt.nokia.com)
+
+![](/assets/루비온레일즈.png)
+
+* Ruby on Rails : 애자일 방식으로 사용될 목적으로 만들어진 프레임 워크 [http://www.rubyonrails.org](http://www.rubyonrails.org)
+
+
 
