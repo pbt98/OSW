@@ -34,9 +34,9 @@
 
 ## 오픈소스의 역사
 
-* [~1980년대](zdfasdg/오픈소스의 역사 before and after 1980.md)
+* [~1980년대 이전 개론](zdfasdg/오픈소스의 역사 before and after 1980.md)
   * [1950 ~ 1980](zdfasdg/오픈소스의 역사 before and after 1980/1950-~-1980.md)
-  * [1980asge](zdfasdg/오픈소스의 역사 before and after 1980/1980asge.md)
+  * [1980년대의 오픈소스 커뮤니티](zdfasdg/오픈소스의 역사 before and after 1980/1980asge.md)
 * [1990년 ~ 1995년](zdfasdg/1990-1995.md)
   * [1991 ~ 1992](zdfasdg/1990-1995/1991-~-1992.md)
   * [1993 ~ 1995](zdfasdg/1990-1995/1993-~-1995.md)
