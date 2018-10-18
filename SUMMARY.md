@@ -37,4 +37,5 @@
 * [~1980년대](zdfasdg/오픈소스의 역사 before and after 1980.md)
 * [gqwerq](zdfasdg/1990-1995.md)
 * [asdfklqkl](zdfasdg/1990년대,2000년대.md)
+* [jgkoqkle](zdfasdg/jgkoqkle.md)
 
