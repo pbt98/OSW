@@ -50,5 +50,5 @@
 
 ## 참고 자료
 
-* [출처](cc38-ace0-c790-b8cc/cc38-ace0-c790-b8cc.md)
+* [출처](Reference/cc38-ace0-c790-b8cc.md)
 
