@@ -23,7 +23,7 @@
 1. **CVS :** 초기에 많이 쓰인 개발 컨트롤 [http://www.nongnu.org/cvs](http://www.nongnu.org/cvs)
 2. **Apache Subversion :** CVS와 비슷한 개발 버전 컨트롤 [http://subversion.apache.org](http://subversion.apache.org)
 3. **GIT :** 가장 많이 쓰이는 VCS로 속도가 아주 빠른 것이 특징이다. [http://git-scm.com](http://git-scm.com)
-4. **Mercurial **: 분산 버전 관리도구로 직관적인 인터페이스가 특징 [http://mercurial.selenic.com](http://mercurial.selenic.com)
+4. **Mercurial :** 분산 버전 관리도구로 직관적인 인터페이스가 특징 [http://mercurial.selenic.com](http://mercurial.selenic.com)
 
 ### IDE
 
