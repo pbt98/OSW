@@ -39,7 +39,7 @@
 * 한중일 공개소프트웨어 시장 동향 및 전망, 한국소프트웨어진흥원
 * OOS를 도입한 유럽 대기업의 45%는 기간업무에 활용중, 정보통신연구진흥원, 2008.12
 * www.xpressengine.com
-* 부트스트랩 \(프론트엔드 프레임워크\) , 우리 모두의 백과사전 ko.wikipedia.org
+* 부트스트랩 \(프론트엔드 프레임워크\), 우리 모두의 백과사전 ko.wikipedia.org
 * 크롬 OS , 우리 모두의 백과사전 ko.wikipedia.org
 * 오픈 소스 , 우리 모두의 백과사전 ko.wikipedia.org
 * 익스프레스엔진 , 우리 모두의 백과사전 ko.wikipedia.org
