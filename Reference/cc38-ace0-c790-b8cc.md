@@ -57,7 +57,7 @@
 
 * opensource software : a survey from 10,00 feet \(저자 : stephanos androutsellis-theotokis\)
 
-* 나무위키 opensource [https://namu.wiki/w/오픈 소스](https://namu.wiki/w/오픈 소스)
+* 나무위키 opensource [https://namu.wiki/w/오픈 소스]
 
 * 오픈소스 코리아 [https://www.oss.kr/](https://www.oss.kr/)
 
