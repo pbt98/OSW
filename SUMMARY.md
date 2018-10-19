@@ -1,9 +1,8 @@
-# 목차
+# Summary
 
 ## Introduction
 
 * [책 소개](README.md)
-* [목차](SUMMARY.md)
 
 ## 오픈소스 소개
 
@@ -48,5 +47,7 @@
   * [2006 ~](zdfasdg/2000년대 중반/2006-~-2008.md)
   * [오픈소스 사용현황](zdfasdg/2000년대 중반/c624-d508-c18c-c2a4-c0ac-c6a9-d604-d669.md)
 
+## 참고 자료
 
+* [출처](cc38-ace0-c790-b8cc/cc38-ace0-c790-b8cc.md)
 
