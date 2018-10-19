@@ -1,7 +1,7 @@
 ### 컨텐츠 관리 시스템
 
 1. **Drupal :** 개인 블로그 및 대형 회사 사이트 작성에 많이 사용된다. [http://drupal.org](http://drupal.org)
-2. **WordPress :** PHP, MySQL을 이용하는 블로그 애플리케이션이다.인기있는 CMS [http://wordpress.org](http://wordpress.org)
+2. **WordPress : **PHP, MySQL을 이용하는 블로그 애플리케이션이다.인기있는 CMS [http://wordpress.org](http://wordpress.org)
 3. **Joomla :** 쉬운 운용방법을 기반으로 웹사이트 구축을 할 수 있게 한다. [http://www.Joomla.org](http://www.Joomla.org)
 4. **Arianne :** RPG게임 서버및 클라이언트를 생성하기위한 멀티플레이어 온라인 엔진 [http://arianne.sf.net](http://arianne.sf.net)
 5. **Media Wiki :** PHP로 작성된 자유 소프트웨어 패키지로 그 유명한 WIKIPEDIA에 사용되었다. [http://www.mediawiki.org](http://www.mediawiki.org)

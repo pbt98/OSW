@@ -6,7 +6,7 @@
 
 ![](/assets/postgre.png)
 
-* **PostgreSQL :** 객체관계형 데이터베이스 관리시스템이다. PostrgreSQL 라이센스를 갖고 있다.[http://www.postgresql.org](http://www.postgresql.org)
+* **PostgreSQL : **객체관계형 데이터베이스 관리시스템이다. PostrgreSQL 라이센스를 갖고 있다.[http://www.postgresql.org](http://www.postgresql.org)
 
 ![](/assets/hysql.png)
 
