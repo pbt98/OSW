@@ -4,7 +4,7 @@
 
 * LINUX : 너무나 유명한 OS이다. 모바일,태블릿,콘솔에서 슈퍼컴퓨터에까지 사용된다. [http://www.linux.org](http://www.linux.org)
 
-
+![](/assets/freebsd.gif)
 
 * Free BSD : AT&T의 유닉스에서 개발되어 버클리 대학을 거쳐 발전된 무료 유닉스 운영체제이다. x86플랫폼을 중심으로 움직인다.[http://www.freebsd.org](http://www.freebsd.org)
 
