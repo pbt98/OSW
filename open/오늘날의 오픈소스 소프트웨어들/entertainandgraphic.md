@@ -51,6 +51,3 @@
 ![](/assets/프리마인드.png)
 
 * **FreeMind :** 자바로 코딩한 아이디어 마인드 맵을 그리기위한 소프트웨어 [http://freemind.sourceforge.net](http://freemind.sourceforge.net)
-
-
-
