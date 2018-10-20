@@ -14,9 +14,7 @@
 
 ![](/assets/오픈비에스디.gif)
 
-* **Open BSD :** net bsd에서 branch되어 나온 오픈소스이다. 역시 이식성에 중점을 두고 개발중이다.[http://www.openbsd.org](http://www.openbsd.org)
-
-![](/assets/젠.png)
+* **Open BSD :** net bsd에서 branch되어 나온 오픈소스이다. 역시 이식성에 중점을 두고 개발중이다.[http://www.openbsd.org](http://www.openbsd.org
 
 * **XEN :** virtual box같은 가상 머신 모니터 오픈소스이다.[http://wwww.xen.org](http://wwww.xen.org)
 
