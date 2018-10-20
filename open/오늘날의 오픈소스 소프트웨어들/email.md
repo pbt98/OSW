@@ -15,6 +15,3 @@
 ![](/assets/스팸암살자.jpg)
 
 * **SpamAssassin :** 스팸 필터링 소프트웨어 [http://spamassassin.apache.org](http://spamassassin.apache.org)
-
-
-
