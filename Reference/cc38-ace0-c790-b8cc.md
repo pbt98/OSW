@@ -36,8 +36,12 @@
 * 위키피디아 Open-source software development [https://en.wikipedia.org/wiki/Open-source\_software\_development](https://en.wikipedia.org/wiki/Open-source_software_development)
 * 성당과 시장 \(저자 : 에릭 레이먼드\)
 * opensource software : a survey from 10,00 feet \(저자 : stephanos androutsellis-theotokis\)
-* 나무위키 opensource [https://namu.wiki/w/오픈소스]
+* 나무위키 opensource \[[https://namu.wiki/w/오픈소스](https://namu.wiki/w/오픈소스)\]
 * 오픈소스 코리아 [https://www.oss.kr/](https://www.oss.kr/)
 * 한국공개소프트웨어 협회 [http://kossa.kr/](http://kossa.kr/)
-* 오픈소스 라이센스 가이드 1.0 (저자 : 한국저작권위원회)
-* 공개SW 라이센스 가이드 (저자 : 정보통신진흥원)
+* 오픈소스 라이센스 가이드 1.0 \(저자 : 한국저작권위원회\)
+* 공개SW 라이센스 가이드 \(저자 : 정보통신진흥원\)
+* 정보통신산업진흥원 오픈소스 사이트 [https://www.oss.kr/](https://www.oss.kr/)
+
+
+
