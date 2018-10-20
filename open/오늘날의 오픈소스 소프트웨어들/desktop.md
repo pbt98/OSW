@@ -6,8 +6,6 @@
 
 * **X11 :** 거의 X 윈도우로 불리며 GUI를 제공한다.[http://www.x.org/wiki](http://www.x.org/wiki)
 
-![](/assets/kde.png)
-
 * **KDE :** x11같은 GUI환경을 제공한다.[http://www.kde.org](http://www.kde.org)
 
 
