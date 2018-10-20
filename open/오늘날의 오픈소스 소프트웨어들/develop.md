@@ -20,7 +20,7 @@
 
 ![](/assets/스칼라.png)
 
-* **Scala :** 우아하고 안정적인 방법으로 일반적인 패턴을 표현하기 위해 설께된 언어 [http://www.scala-lang.org](http://www.scala-lang.org)
+* **Scala :** 우아하고 안정적인 방법으로 일반적인 패턴을 표현하기 위해 설계된 언어 [http://www.scala-lang.org](http://www.scala-lang.org)
 
 * **Erlang** : 에릭슨에 의해 고안된 프로그래밍언어 [http://www.erlang.org](http://www.erlang.org)
 
@@ -37,8 +37,6 @@
 ![](/assets/빔.png)
 
 * **VIM :** 유닉스 텍스트 에디터로 많이 쓰인다. [http://www.vim.org](http://www.vim.org)
-
-![](/assets/노트패드++.png)
 
 * **Notepad ++ :** 윈도우 노트패드를 대체하기 위한 에디터 [http://notepad-plus.sourceforge.net](http://notepad-plus.sourceforge.net)
 
@@ -57,8 +55,6 @@
 ![](/assets/깃.jpg)
 
 * **GIT :** 가장 많이 쓰이는 VCS로 속도가 아주 빠른 것이 특징이다. [http://git-scm.com](http://git-scm.com)
-
-![](/assets/머큐리얼.png)
 
 * **Mercurial :** 분산 버전 관리도구로 직관적인 인터페이스가 특징 [http://mercurial.selenic.com](http://mercurial.selenic.com)
 
