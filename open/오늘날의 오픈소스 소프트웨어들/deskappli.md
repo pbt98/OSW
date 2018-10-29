@@ -1,6 +1,6 @@
 ### 데스크탑
 
-* **Mosaic :** 1993년 개발된 웹브라우저이다. 인터넷 초기에 중심적인 역할을 했다. 다만 상업용을 위해서는 별도로 계약해야 쓸 수 있다. 그외 교육용,사업을 위한 사용에는 별도의 라이센스가 필요하지 않다. [http://www.ncsa.illinois.edu](http://www.ncsa.illinois.edu)
+* **Mosaic :** 1993년 개발된 웹브라우저이다. 인터넷 초기에 중심적인 역할을 했다. 다만 상업용을 위해서는 별도로 계약해야 쓸 수 있다. 그외 교육용,사업을 위한 사용에는 별도의 라이선스가 필요하지 않다. [http://www.ncsa.illinois.edu](http://www.ncsa.illinois.edu)
 
 ![](/assets/firefox.jpg)
 
@@ -19,6 +19,3 @@
 * **7zip :** 다양한 포맷을 지원하는 압축도구 [http://www.7-zip.org](http://www.7-zip.org)
 
 * **KeePass Password Safe :** 윈도우를 위한 패스워드 관리자. [http://kepass.info](http://kepass.info)
-
-
-
