@@ -1,0 +1,32 @@
+개발방법론 출처
+책 : software development -an opensource approach
+저자 : allen tucker
+
+책 : 오픈소스 개발방법론
+저자 : 윤석찬
+
+책 : 쉽게 배우는 소프트웨어공학
+저자: 김치수
+
+사이트 : 소프트웨어 공학 포털
+주소 : http://www.sw-eng.kr/member/customer/Webzine/BoardView.do?boardId=00000000000000030170
+
+사이트 : 위키피디아 Open-source software development
+주소:https://en.wikipedia.org/wiki/Open-source_software_development
+
+책 : 성당과 시장
+저자 : 에릭 레이몬드
+
+오늘날의 오픈소스 출처
+
+책 : opensource software : a survey from 10,00 feet
+저자 : stephanos androutsellis-theotokis
+
+사이트 : 나무위키 opensource
+주소:https://namu.wiki/w/%EC%98%A4%ED%94%88%20%EC%86%8C%EC%8A%A4
+
+사이트  : 오픈소스 코리아
+주소 : https://www.oss.kr/
+
+사이트 : 한국공개소프트웨어 협회
+주소  : http://kossa.kr/
